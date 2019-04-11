@@ -1,0 +1,21 @@
+{
+  "name": "nodeproxy",
+  "version": "0.1.0",
+  "description": "Simple Node Proxy",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Pastoral",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
